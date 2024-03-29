@@ -14,7 +14,7 @@ I'm a self-taught passionate full stack developer from Canada
 
 ## About me
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Full Stack Engineer at [Razorpay](http://razorpay.com/)
 
 - 📈 Built chatgpt-web, nvim and more
 
