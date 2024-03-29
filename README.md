@@ -10,6 +10,18 @@
    </h3>
 </div>
 
+I'm a self-taught passionate full stack developer from Canada
+
+## About me
+
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+
+- 📈 Built chatgpt-web, nvim and more
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](https://github.com/Joye-bot/Joye-bot/issues)
+
 ## My Teck Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
